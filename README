@@ -1,3 +1,5 @@
+# This repository is to demo a reproducible jupyter notebook
+
 # Setup and start the virtual environment
 '''
 ./bootstrap.sh
@@ -18,12 +20,6 @@ pip freeze > requirements.txt
 '''
 
 # Notebok
-# The kaggle notebook is from Emily Sung. 
-# I download it to demo for a reproducible analysis.
-# (mainly the file path)
-
-# https://www.kaggle.com/emilymsung
-# Step-by-step NLP with Disaster Tweets
 
 
 
