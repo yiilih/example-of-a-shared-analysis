@@ -27,3 +27,5 @@ rm nlp-getting-started.zip
 - 除了 Notebook，存一份 HTML or PDF
 - 建議作 table of content。因為 notebook 太長就很難閱讀
 - README 是必要的。是第一個要看的檔案
+- 輸出 ipynb 到 pdf 需要安裝 Latex  https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex
+- Running Jupyter notebook in VSCode: 選擇正確的 python interpreter
